@@ -1,0 +1,72 @@
+# Loading project tut1
+# reading /home/priya/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project ex1
+# Compile of dff.vhd was successful.
+# Compile of dff_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.dff_tb
+# vsim work.dff_tb 
+# Start time: 20:42:29 on Jun 06,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dff_tb(tb)
+# Loading work.dff(behav)
+add wave -position insertpoint  \
+sim:/dff_tb/clk \
+sim:/dff_tb/rst \
+sim:/dff_tb/d \
+sim:/dff_tb/q \
+sim:/dff_tb/qn
+run
+run
+run
+run
+run
+run
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+vmap work /home/priya/vhdl/exercise/ex01/work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work /home/priya/vhdl/exercise/ex01/work 
+# Modifying /home/priya/vhdl/exercise/ex01/ex1.mpf
+vmap -del work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap -del work 
+# Removing reference to logical library work
+# Modifying /home/priya/vhdl/exercise/ex01/ex1.mpf
+vmap work /home/priya/vhdl/exercise/
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work /home/priya/vhdl/exercise/ 
+# Modifying /home/priya/vhdl/exercise/ex01/ex1.mpf
+# ** Error: (vmap-25) Invalid ModelSim library "/home/priya/vhdl/exercise". No _info file found.
+# No such file or directory. (errno = ENOENT)
+# ** Error (suppressible): (vish-19) Failed to access library '/home/priya/vhdl/exercise/' at "/home/priya/vhdl/exercise/".
+# No such file or directory. (errno = ENOENT)
+quit sim
+# unknown switch: sim
+quit -sim
+# End time: 20:55:44 on Jun 06,2022, Elapsed time: 0:13:15
+# Errors: 1, Warnings: 2
+# reading /home/priya/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project vhdl
+# Compile of dff.vhd was successful.
+# Compile of dff_tb.vhd was successful.
+# Compile of adder.vhd failed with 14 errors.
+# Compile of adder_tb.vhd was successful.
+# 4 compiles, 1 failed with 14 errors.
+add wave -position insertpoint std_logic_vector
+# Compile of dff.vhd was successful.
+# Compile of dff_tb.vhd was successful.
+# Compile of adder.vhd was successful.
+# Compile of adder_tb.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of dff.vhd was successful.
+# Compile of dff_tb.vhd was successful.
+# Compile of adder.vhd failed with 14 errors.
+# Compile of adder_tb.vhd was successful.
+# 4 compiles, 1 failed with 14 errors.
+# Compile of adder.vhd failed with 14 errors.
+# Compile of adder.vhd was successful.

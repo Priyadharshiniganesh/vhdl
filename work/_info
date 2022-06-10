@@ -1,0 +1,48 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/priya
+Eto1
+Z0 w1650484781
+!i122 1
+Z1 d/home/priya/vhdl
+Z2 8/home/priya/vhdl/tut1.vhd
+Z3 F/home/priya/vhdl/tut1.vhd
+l0
+L2 1
+V`J[>KHiTEF7J>GcUYocQe3
+!s100 >KW5YOJX3cj_Pcih3^BE11
+Z4 OV;C;2020.1;71
+32
+Z5 !s110 1650484906
+!i10b 1
+Z6 !s108 1650484906.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/priya/vhdl/tut1.vhd|
+Z8 !s107 /home/priya/vhdl/tut1.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Asim
+Z11 DEx4 work 3 to1 0 22 `J[>KHiTEF7J>GcUYocQe3
+!i122 1
+l8
+Z12 L6 14
+Z13 V^6nle8l1H_XXY;MILm[[l1
+Z14 !s100 ih[HL?9EIe88d;RB617=:1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10

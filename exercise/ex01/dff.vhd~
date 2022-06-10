@@ -1,0 +1,29 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity dff is
+
+  port (
+    D    : in  std_logic;
+    clk  : in  std_logic;
+    arst : in  std_logic;
+    Q    : out std_logic);
+
+end entity dff;
+
+architecture str of dff is
+
+begin  -- architecture str
+
+
+  process (clk, arst) is
+  begin  -- process
+    if arst = '0' then                  -- asynchronous reset (active low)
+      Q <= '0';
+
+    elsif clk'event and clk = '1' then  -- rising clock edge
+      Q <= "D";
+    end if;
+  end process;
+
+end architecture str;

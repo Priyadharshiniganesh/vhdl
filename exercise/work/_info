@@ -1,0 +1,179 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/priya/vhdl/exercise/ex01
+Eadder
+Z0 w1654542172
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 13
+Z4 d/home/priya/vhdl/exercise
+Z5 8/home/priya/vhdl/exercise/ex02/adder.vhd
+Z6 F/home/priya/vhdl/exercise/ex02/adder.vhd
+l0
+L5 1
+VUFY:_EaiTfW7f8:VUHF>=0
+!s100 kE5zUe4Ahh>9CEX1QL9n82
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1654542188
+!i10b 1
+Z9 !s108 1654542188.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/priya/vhdl/exercise/ex02/adder.vhd|
+Z11 !s107 /home/priya/vhdl/exercise/ex02/adder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehv
+R1
+R2
+R3
+Z14 DEx4 work 5 adder 0 22 UFY:_EaiTfW7f8:VUHF>=0
+!i122 13
+l16
+Z15 L14 7
+Z16 V8?5H:WDzQ9N1TZMnH3C0?3
+Z17 !s100 hYKZNEX=bB=KGOfPCGUC20
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eadder_tb
+Z18 w1654538373
+R1
+R2
+R3
+!i122 11
+R4
+Z19 8/home/priya/vhdl/exercise/ex02/adder_tb.vhd
+Z20 F/home/priya/vhdl/exercise/ex02/adder_tb.vhd
+l0
+L6 1
+VdGnWUjkkO;CBcOz`8LCeU3
+!s100 z_?9S;CKN2C==5DUn5dlZ2
+R7
+32
+Z21 !s110 1654542065
+!i10b 1
+Z22 !s108 1654542065.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/priya/vhdl/exercise/ex02/adder_tb.vhd|
+Z24 !s107 /home/priya/vhdl/exercise/ex02/adder_tb.vhd|
+!i113 1
+R12
+R13
+Atst
+R1
+R2
+R3
+DEx4 work 8 adder_tb 0 22 dGnWUjkkO;CBcOz`8LCeU3
+!i122 11
+l22
+L10 36
+VJ4``7_YQOn>>6?dJb3D`V1
+!s100 54ngi]R0Y?=gKh9:>dTGM3
+R7
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R12
+R13
+Edff
+Z25 w1651738259
+R2
+R3
+!i122 8
+R4
+Z26 8/home/priya/vhdl/exercise/ex01/dff.vhd
+Z27 F/home/priya/vhdl/exercise/ex01/dff.vhd
+l0
+L5 1
+VQ2lSoKhRo@;C0=fX`cKF_0
+!s100 XD`mH]6772F@A>`3N<lBF1
+R7
+32
+R21
+!i10b 1
+R22
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/priya/vhdl/exercise/ex01/dff.vhd|
+Z29 !s107 /home/priya/vhdl/exercise/ex01/dff.vhd|
+!i113 1
+R12
+R13
+Abehav
+R2
+R3
+DEx4 work 3 dff 0 22 Q2lSoKhRo@;C0=fX`cKF_0
+!i122 8
+l16
+L14 18
+Vg;8SZ_8M^Q3PT]lmFjKV=3
+!s100 8eI1F<;TKjP@DE_mG8N3Z2
+R7
+32
+R21
+!i10b 1
+R22
+R28
+R29
+!i113 1
+R12
+R13
+Edff_tb
+Z30 w1651738145
+R2
+R3
+!i122 9
+R4
+Z31 8/home/priya/vhdl/exercise/ex01/dff_tb.vhd
+Z32 F/home/priya/vhdl/exercise/ex01/dff_tb.vhd
+l0
+L4 1
+VTVbUaY6f:IMWNoKkje4LY3
+!s100 Q2oAj73n>PKfR1iT6AjPb3
+R7
+32
+R21
+!i10b 1
+R22
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/priya/vhdl/exercise/ex01/dff_tb.vhd|
+Z34 !s107 /home/priya/vhdl/exercise/ex01/dff_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R2
+R3
+DEx4 work 6 dff_tb 0 22 TVbUaY6f:IMWNoKkje4LY3
+!i122 9
+l19
+L8 42
+V2?Ol<Kh7c2F`MhkObjmE02
+!s100 B3PP]_9:]>J=go:KEU97n0
+R7
+32
+R21
+!i10b 1
+R22
+R33
+R34
+!i113 1
+R12
+R13

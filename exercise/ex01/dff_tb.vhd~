@@ -1,0 +1,31 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity dff_tb is
+  
+end entity dff_tb;
+
+architecture test of dff_tb is
+
+begin  -- architecture test
+  signal d_in, clk, rst, res : std_logic;
+  component dff is
+      port (
+    D    : in  std_logic;
+    clk  : in  std_logic;
+    arst : in  std_logic;
+    Q    : out std_logic);
+  end component dff;
+
+  begin
+
+    inst:dff:port map (
+      d    => d_in,
+      clk  => clk,
+      arst => rst,
+      q    => res);
+    
+      
+  
+
+end architecture test;

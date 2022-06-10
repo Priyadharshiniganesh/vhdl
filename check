@@ -1,0 +1,7 @@
+# Run the vsim script to start ModelSim
+cd
+~/intelFPGA/*.*/modelsim_ase/bin/vsim
+
+do path/run.do
+runtb
+

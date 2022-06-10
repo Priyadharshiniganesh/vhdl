@@ -1,0 +1,7 @@
+/home/priya/vhdl/tut1.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/priya/vhdl/tut1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity to1
+-- Compiling architecture sim of to1
+
+} {} {}}
